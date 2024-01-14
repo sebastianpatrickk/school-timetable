@@ -4,4 +4,4 @@ School timetable
 
 # Live Demo
 
-[Live preview](URL)
+[Live preview](https://school-timetable-snowy.vercel.app/)
